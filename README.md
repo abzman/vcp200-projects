@@ -1,2 +1,2 @@
 # vcp200-projects
-using the VCP200 chip
+moved boards to centralized repository here: https://github.com/abzman/VCP200
